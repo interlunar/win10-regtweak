@@ -1,0 +1,7 @@
+C:\Windows\System32
+sdelete
+
+
+
+C:\Windows\SysWOW64
+sdelete64

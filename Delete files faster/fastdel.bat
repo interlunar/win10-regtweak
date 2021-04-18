@@ -1,0 +1,8 @@
+@ECHO OFF
+ECHO Delete Folder: %CD%?
+PAUSE
+SET FOLDER=%CD%
+CD /
+DEL /F/Q/S "%FOLDER%" > NUL
+RMDIR /Q/S "%FOLDER%"
+EXIT

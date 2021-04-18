@@ -1,0 +1,3 @@
+Open cmd.exe as admin, type in:
+
+powercfg -h off

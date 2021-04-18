@@ -1,0 +1,3 @@
+EMET 5.1+ required
+
+EMET cert pinning is not only limited to Internet Explorer or Spartan, by modifing HKLM\SOFTWARE\Microsoft\EMET: EMET_CE value, we can protect any 3rd party browser as long as it uses OS cert store. 
