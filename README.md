@@ -1,4 +1,5 @@
-#few small fixes
+#PROCEED AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANYTHING. MAKE SURE YOU READ THE FILES(.REG,.PS1,ETC B4 EXECUTING ) .
+Bunch of configurations to optimize Windows10
 # Network Configuration
 ## Operating System Specific Configuration
    * Ensure **Network Throttling Index feature is enabled**
