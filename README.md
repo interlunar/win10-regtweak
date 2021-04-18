@@ -48,7 +48,13 @@ Reference:
 * [https://www.howtogeek.com/256859/dont-waste-time-optimizing-your-ssd-windows-knows-what-its-doing/](https://www.howtogeek.com/256859/dont-waste-time-optimizing-your-ssd-windows-knows-what-its-doing/)
 * [Why disable SuperFetch on ssd, if RAM is much faster than ssd?](https://answers.microsoft.com/en-us/windows/forum/all/why-disable-superfetch-on-ssd-if-ram-is-much/61b6b215-0f27-473b-9490-b8b297899ac7)
 
+https://www.back2gaming.com/guides/how-to-tweak-windows-10-for-gaming/ < decent guide to eliminate misc input lag from gpu,cpu,ram,usb etc\ https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/  https://pastebin.com/raw/1twn8geB  https://www.autoitscript.com/forum/topic/144234-_regenumkeyvalex-_regenumkeyex-_regenumvalex/  https://www.reddit.com/r/Amd/comments/ax4838/attention_display_port_users_i_might_have_a/ei77ttx/
+VOC4B
+ — 
+03/11/2021
+https://translate.google.com/translate?sl=auto&tl=en&u=https://www.hardwareluxx.de/community/threads/die-ultimative-hardwareluxx-samsung-8gb-b-die-liste-alle-hersteller-13-12-20.1161530/ https://www.reddit.com/r/overclocking/comments/hpqsfc/txp_the_underrated_memory_timing/
 
+https://translate.google.com/translate?sl=auto&tl=en&u=https://www.hardwareluxx.de/community/threads/die-ultimative-hardwareluxx-samsung-8gb-b-die-liste-alle-hersteller-13-12-20.1161530/ https://www.reddit.com/r/overclocking/comments/hpqsfc/txp_the_underrated_memory_timing/  
 # OS-independent
 regedit tweak win10
 The following _known issues_ are currently present in Windows 1903 (May Update '19). 
